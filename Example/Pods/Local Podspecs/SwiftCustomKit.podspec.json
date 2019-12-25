@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "SwiftCustomKit/Classes/**/*"
+  "source_files": "SwiftCustomKit/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }
