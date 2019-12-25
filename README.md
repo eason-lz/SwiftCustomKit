@@ -22,7 +22,7 @@ pod 'SwiftCustomKit'
 
 ## Author
 
-18210437675@163.com, lizheng@renmaitech.com
+18210437675@163.com
 
 ## License
 
