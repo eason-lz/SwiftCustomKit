@@ -1,0 +1,6 @@
+framework module SwiftCustomKit {
+  umbrella header "SwiftCustomKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

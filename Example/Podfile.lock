@@ -1,0 +1,16 @@
+PODS:
+  - SwiftCustomKit (0.0.1)
+
+DEPENDENCIES:
+  - SwiftCustomKit (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCustomKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftCustomKit: 8432403385e2417d7b58e7d516d1595ca8b8fb53
+
+PODFILE CHECKSUM: 21c50c8c947a02426c4d5759f4589f589f0da6b5
+
+COCOAPODS: 1.8.4
