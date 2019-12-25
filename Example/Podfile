@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftCustomKit_Example' do
+  pod 'SwiftCustomKit', :path => '../'
+
+  target 'SwiftCustomKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
